@@ -1,23 +1,34 @@
-# 💫 About Me:
-👋Hi, my name is Purva Santosh Gujar.<br><br>🎓Currently pursuing bachelor's degree in computer science from MESCOE, Pune. (2022-2025)<br><br>👩🏻‍💻I have a passion for coding, website development and graphic design.<br><br>📚 Well familiar and trying to do better in programming languages like Python, C++, HTML, CSS, Java<br><br>💻 As for my future, I would like to work as a developer and work with a diverse team.<br><br>🎴 In my free time, I enjoy reading books, listening to music and binge-watching.
+Welcome to my coding wonderland! 👨‍💻✨ Here, I channel my passion for coding, Flutter Android development, UI design, and graphic design into creating digital magic. 🎨📱
 
+## About Me
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/purva-gujar-a7b941231) 
+Hey there! 👋 I'm Purva Gujar, a passionate developer and designer on a mission to craft beautiful, functional, and user-friendly experiences. My journey involves a symphony of code, creativity, and coffee. ☕
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=PurvaSG19&theme=jolly&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=PurvaSG19&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PurvaSG19&theme=jolly&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## What Excites Me
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=PurvaSG19&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 💻 Coding
 
+Coding is not just my job; it's my playground. I thrive on the challenges of turning ideas into reality through lines of code. From solving complex problems to creating elegant solutions, I find joy in every keystroke.
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 📱 Flutter Android Development
 
+Flutter is my superhero cape! 🦸‍♂️ I dive into the world of cross-platform app development, building seamless and visually stunning applications that run like a charm on Android devices.
 
+### 🎨 UI Design
 
+Design is where aesthetics meets functionality. I'm passionate about crafting intuitive and visually appealing user interfaces. Pixel perfection is not just a goal; it's a habit.
 
+### 🖌️ Graphic Design
+
+Beyond code and interfaces, I embrace the art of graphic design. Whether it's crafting logos, illustrations, or striking visuals, I believe in the power of design to convey messages and captivate audiences.
+
+## Let's Connect
+
+I'm always excited to connect with fellow developers, designers, and enthusiasts. Feel free to reach out for collaboration, advice, or just to geek out over the latest tech trends.
+
+- LinkedIn: www.linkedin.com/in/purva-gujar-a7b941231
+- Email: www.purvasg19@gmail.com
+
+## Happy Coding! 🚀✨
+
+Thanks for stopping by my coding haven. Let's make the digital world a better and more beautiful place together. Happy coding! 🌟
