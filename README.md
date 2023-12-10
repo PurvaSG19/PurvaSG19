@@ -3,7 +3,7 @@ Welcome to my coding wonderland! 👨‍💻✨ Here, I channel my passion for c
 ## About Me
 
 Hey there! 👋 I'm Purva Gujar, a passionate developer and designer on a mission to craft beautiful, functional, and user-friendly experiences. My journey involves a symphony of code, creativity, and coffee. ☕
-
+ 
 ## What Excites Me
 
 ### 💻 Coding
