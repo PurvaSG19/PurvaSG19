@@ -1,34 +1,21 @@
-Welcome to my coding wonderland! 👨‍💻✨ Here, I channel my passion for coding, Flutter Android development, UI design, and graphic design into creating digital magic. 🎨📱
+<h1 align="center">Hi 👋, I'm Purva Gujar</h1>
+<h3 align="center">An aspiring Software Developer and UI/UX Enthusiast</h3>
 
-## About Me
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=purvasg19&label=Profile%20views&color=0e75b6&style=flat" alt="purvasg19" /> </p>
 
-Hey there! 👋 I'm Purva Gujar, a passionate developer and designer on a mission to craft beautiful, functional, and user-friendly experiences. My journey involves a symphony of code, creativity, and coffee. ☕
- 
-## What Excites Me
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=purvasg19" alt="purvasg19" /></a> </p>
 
-### 💻 Coding
+- 🌱 I’m currently learning **C++**
 
-Coding is not just my job; it's my playground. I thrive on the challenges of turning ideas into reality through lines of code. From solving complex problems to creating elegant solutions, I find joy in every keystroke.
+- 📫 How to reach me **purvasg19@gmail.com**
 
-### 📱 Flutter Android Development
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Flutter is my superhero cape! 🦸‍♂️ I dive into the world of cross-platform app development, building seamless and visually stunning applications that run like a charm on Android devices.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-### 🎨 UI Design
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=purvasg19&show_icons=true&locale=en" alt="purvasg19" /></p>
 
-Design is where aesthetics meets functionality. I'm passionate about crafting intuitive and visually appealing user interfaces. Pixel perfection is not just a goal; it's a habit.
-
-### 🖌️ Graphic Design
-
-Beyond code and interfaces, I embrace the art of graphic design. Whether it's crafting logos, illustrations, or striking visuals, I believe in the power of design to convey messages and captivate audiences.
-
-## Let's Connect
-
-I'm always excited to connect with fellow developers, designers, and enthusiasts. Feel free to reach out for collaboration, advice, or just to geek out over the latest tech trends.
-
-- LinkedIn: www.linkedin.com/in/purva-gujar-a7b941231
-- Email: www.purvasg19@gmail.com
-
-## Happy Coding! 🚀✨
-
-Thanks for stopping by my coding haven. Let's make the digital world a better and more beautiful place together. Happy coding! 🌟
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=purvasg19&" alt="purvasg19" /></p>
